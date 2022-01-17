@@ -21,4 +21,5 @@ public extension Agent.ID {
 	static let omen = Self("8e253930-4c05-31dd-1b6c-968525494517")!
 	static let jett = Self("add6443a-41bd-e414-f6ad-e58d267f4e95")!
 	static let kayO = Self("601dbbe7-43ce-be57-2a40-4abd24953621")!
+	static let neon = Self("bb2a4828-46eb-8cd1-e765-15848195d751")!
 }
